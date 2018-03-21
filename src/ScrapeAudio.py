@@ -1,6 +1,7 @@
 # link http://www.mp3bible.ca/playlistKJV/
 # Auto Download audio from above site to /data/audio/book/chapter
 # Copyright URL: http://www.mp3bible.ca/copyright/Audio_Scriptures_International_Copyright_Info.mp3
+# These audio files may not be resold without permission of www.mp3bible.ca
 import GetUrl
 import BiblePaths
 import CheckInternet
