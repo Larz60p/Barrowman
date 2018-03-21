@@ -1,0 +1,15 @@
+Barrowman/
+    __init__.py
+    src/
+        __init__.py
+        BiblePaths.py
+        CheckInternet.py
+        CreateChapterJson.py
+        ErrorMsg.py
+        GetRemoteDir.py
+        GetUrl.py
+        CheckInternet.py
+        RunMeOnce.py
+        ScrapeAudio.py
+        UpdateBibleIndexAudioLinks.py
+        PlayAudio.py
