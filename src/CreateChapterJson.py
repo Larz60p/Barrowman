@@ -1,5 +1,6 @@
 # Bible source: http://ebible.org/kjv/kjvtxt.zip
 # Titles are from: https://austinbiblechurch.com/sites/default/files/documents/oyttb/Bible_Chapter_Titles.pdf
+# The text files may not be resold without permisison of Austin Bible Church
 import BiblePaths
 import json
 import zipfile
